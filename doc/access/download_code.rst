@@ -106,7 +106,7 @@ Now you have a complete copy of the NorESM code in the directory <noresm-base>. 
 Configure Externals.cfg
 ++++++++++++
 
- The file can be modified to use another repo, fork, branch or tag or release for any of the model components.
+The file can be modified to use another repo, fork, branch or tag or release for any of the model components.
 
 See more info here: 
 https://github.com/ESCOMP/CESM/blob/master/README.rst
